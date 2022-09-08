@@ -4,4 +4,5 @@ Trevor Reed - trre4109
 Ian Wong - Iwong239  
 Kailen Sammons - Skye-Storm  
 
-Project Team Members: Trevor Reed
+Project Team Members: 
+Trevor Reed
