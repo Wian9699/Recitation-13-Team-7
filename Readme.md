@@ -1,7 +1,6 @@
 Project Team Members:
-Zahir Nieblas Bedolla
-Trevor Reed
-Kailen's Main Edits again
+Kailen's Main Edits
+
 
 Will Anderson - Wian9699  
 Zahir Niebles Bedolla - zahnieb  
